@@ -1,0 +1,3 @@
+基于spring-security 和spring-security-oauth2 实现了基于认证服务器的sso登录
+
+具体流程可参看doc中的流程图
